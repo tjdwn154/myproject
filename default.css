@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    font-size: 32px;
+}
+
+.subtitle{
+    font-weight: bold;
+}
